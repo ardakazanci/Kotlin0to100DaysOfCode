@@ -6,7 +6,7 @@
  *
  */
 
-package ifelse
+package if_else_when
 
 fun main(args: Array<String>) {
 
