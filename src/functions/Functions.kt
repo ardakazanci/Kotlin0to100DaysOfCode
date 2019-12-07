@@ -47,3 +47,6 @@ fun number1PlusNumber3(): Unit = println(2 + 2)
 
 // Unit = Void -> Değer Döndürmeyen , Default olarak Unit Eklenir.
 fun sampleFunc(): Unit = println("Hello World Unit")
+
+
+fun sampleFunc_2(x: Int, y: Int): Int = x + y
